@@ -1,0 +1,13 @@
+body::-webkit-scrollbar {
+    width: 0.5em;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: rgb(85 62 21);
+}
+
+body{
+    &.lock{
+        overflow: hidden;
+    }
+}

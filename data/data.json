@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "title": "Modern 2-Bedroom Apartment",
+    "type": "Sale",
+    "price": 250000,
+    "size": 80,
+    "location": {
+      "city": "Odesa",
+      "district": "Odesa Oblast",
+      "address": "Derybasivska St, 11"
+    },
+    "amenities": ["2 Bedrooms", "1 Bathroom", "Balcony", "Gym", "Parking"],
+    "photos": [
+      "../data/images/house-1.jpg",
+      "../data/images/house-2.jpg",
+      "../data/images/house-3.jpg"
+    ],
+    "latitude": 46.48379133317276,
+    "longitude": 30.740270985134536
+  },
+  {
+    "id": 2,
+    "title": "Spacious 3-Bedroom House",
+    "type": "Rent",
+    "price": 2500,
+    "size": 150,
+    "location": {
+      "city": "Kyiv",
+      "district": "Kyiv Oblast",
+      "address": "Khreshchatyk St, 22"
+    },
+    "amenities": ["3 Bedrooms", "2 Bathrooms", "Garden", "Swimming Pool", "Garage"],
+    "photos": [
+      "../data/images/house-4.jpg",
+      "../data/images/house-5.jpg",
+      "../data/images/house-6.jpg"
+    ],
+    "latitude": 50.44997987223832,
+    "longitude": 30.523075696352038
+  },
+  {
+    "id": 3,
+    "title": "Cozy Studio",
+    "type": "Sale",
+    "price": 150000,
+    "size": 35,
+    "location": {
+      "city": "Lviv",
+      "district": "Lviv Oblast",
+      "address": "Horodotska St, 85"
+    },
+    "amenities": ["Studio", "1 Bathroom", "Modern Kitchen", "Elevator"],
+    "photos": [
+      "../data/images/house-7.jpg",
+      "../data/images/house-8.jpg",
+      "../data/images/house-9.jpg"
+    ],
+    "latitude": 49.83956157804398,
+    "longitude": 24.010601998181027
+  },
+  {
+    "id": 4,
+    "title": "Luxury Villa",
+    "type": "Sale",
+    "price": 5000000,
+    "size": 400,
+    "location": {
+      "city": "Kharkiv",
+      "district": "Kharkiv Oblast",
+      "address": "Sumska St, 47"
+    },
+    "amenities": ["5 Bedrooms", "3 Bathrooms", "Swimming Pool", "Private Garden"],
+    "photos": [
+      "../data/images/house-10.jpg",
+      "../data/images/house-11.jpg",
+      "../data/images/house-12.jpg"
+    ],
+    "latitude": 50.006978278942846,
+    "longitude": 36.23675712517149
+  },
+  {
+    "id": 5,
+    "title": "Charming Cottage",
+    "type": "Rent",
+    "price": 1800,
+    "size": 100,
+    "location": {
+      "city": "Dnipro ",
+      "district": "Dnipropetrovsk Oblast",
+      "address": "Dmytra Yavornytskoho Ave, 101"
+    },
+    "amenities": ["2 Bedrooms", "1 Bathroom", "Garden", "Fireplace"],
+    "photos": [
+      "../data/images/house-3.jpg",
+      "../data/images/house-4.jpg",
+      "../data/images/house-5.jpg"
+    ],
+    "latitude": 48.47311984262802,
+    "longitude": 35.02760126929475
+  },
+  {
+    "id": 6,
+    "title": "Stylish 1-Bedroom Loft",
+    "type": "Sale",
+    "price": 350000,
+    "size": 60,
+    "location": {
+      "city": "Zaporizhzhia",
+      "district": "Zaporizhzhia Oblast",
+      "address": "Soborna St, 45"
+    },
+    "amenities": ["1 Bedroom", "1 Bathroom", "Open Space", "High Ceilings", "Modern Design"],
+    "photos": [
+      "../data/images/house-6.jpg",
+      "../data/images/house-7.jpg",
+      "../data/images/house-8.jpg"
+    ],
+    "latitude": 47.94355733456444,
+    "longitude": 35.43439329625982
+  },
+  {
+    "id": 7,
+    "title": "Bright 2-Bedroom Apartment with Park View",
+    "type": "Rent",
+    "price": 2200,
+    "size": 85,
+    "location": {
+      "city": "Vinnytsia",
+      "district": "Vinnytsia Oblast",
+      "address": "Pyrohova St, 56"
+    },
+    "amenities": ["2 Bedrooms", "1 Bathroom", "Balcony", "Park View", "Parking"],
+    "photos": [
+      "../data/images/house-9.jpg",
+      "../data/images/house-10.jpg",
+      "../data/images/house-11.jpg"
+    ],
+    "latitude": 49.22669674467581,
+    "longitude": 28.44792408281461
+  },
+  {
+    "id": 8,
+    "title": "Spacious Family Home with Large Yard",
+    "type": "Sale",
+    "price": 350000,
+    "size": 200,
+    "location": {
+      "city": "Ivano-Frankivsk",
+      "district": "Ivano-Frankivsk Oblast",
+      "address": "Nezalezhnosti St, 12"
+    },
+    "amenities": ["4 Bedrooms", "3 Bathrooms", "Backyard", "Fireplace", "Garage"],
+    "photos": [
+      "../data/images/house-12.jpg",
+      "../data/images/house-3.jpg",
+      "../data/images/house-4.jpg"
+    ],
+    "latitude": 48.91961882370904,
+    "longitude": 24.711366167459424
+  },
+  {
+    "id": 9,
+    "title": "Elegant 4-Bedroom House with Pool",
+    "type": "Rent",
+    "price": 3500,
+    "size": 250,
+    "location": {
+      "city": "Chernivtsi",
+      "district": "Chernivtsi Oblast",
+      "address": "Ruska St, 38"
+    },
+    "amenities": ["4 Bedrooms", "3 Bathrooms", "Pool"],
+    "photos": [
+      "../data/images/house-5.jpg",
+      "../data/images/house-11.jpg",
+      "../data/images/house-7.jpg"
+    ],
+    "latitude": 48.29075996613976,
+    "longitude": 25.942912216259973
+  },
+  {
+    "id": 10,
+    "title": "Penthouse with Rooftop Terrace",
+    "type": "Sale",
+    "price": 800000,
+    "size": 150,
+    "location": {
+      "city": "Poltava",
+      "district": "Poltava Oblas",
+      "address": "Yevropeiska St, 29"
+    },
+    "amenities": ["2 Bedrooms", "2 Bathrooms", "Rooftop Terrace", "Modern Kitchen", "Parking"],
+    "photos": [
+      "../data/images/house-8.jpg",
+      "../data/images/house-12.jpg",
+      "../data/images/house-10.jpg"
+    ],
+    "latitude": 49.58498649578918,
+    "longitude": 34.55025571166373
+  },
+  {
+    "id": 11,
+    "title": "Renovated Loft in Historic Building",
+    "type": "Rent",
+    "price": 3800,
+    "size": 140,
+    "location": {
+      "city": "Ternopil",
+      "district": "Ternopil Oblast",
+      "address": "Ruska St, 18"
+    },
+    "amenities": ["1 Bedroom", "1 Bathroom", "Exposed Brick Walls", "High Ceilings", "Elevator"],
+    "photos": [
+      "../data/images/house-1.jpg",
+      "../data/images/house-2.jpg",
+      "../data/images/house-3.jpg"
+    ],
+    "latitude": 49.55058856267501,
+    "longitude": 25.590275452138908
+  },
+  {
+    "id": 12,
+    "title": "Stylish 1-Bedroom Loft",
+    "type": "Rent",
+    "price": 4500,
+    "size": 160,
+    "location": {
+      "city": "Kyiv",
+      "district": "Kyiv Oblast",
+      "address": "Velyka Vasylkivska St, 72"
+    },
+    "amenities": ["1 Bedroom", "1 Bathroom", "Exposed Brick Walls", "High Ceilings", "Elevator"],
+    "photos": [
+      "../data/images/house-4.jpg",
+      "../data/images/house-11.jpg",
+      "../data/images/house-12.jpg"
+    ],
+    "latitude": 50.43260584687852,
+    "longitude": 30.514699625187593
+  },
+  {
+    "id": 13,
+    "title": "Spacious Family Home with Large Yard",
+    "type": "Rent",
+    "price": 3900,
+    "size": 110,
+    "location": {
+      "city": "Kyiv",
+      "district": "Kyiv Oblast",
+      "address": "Andriivskyi Descent, 15"
+    },
+    "amenities": ["1 Bedroom", "1 Bathroom", "High Ceilings", "Large Yard"],
+    "photos": [
+      "../data/images/house-7.jpg",
+      "../data/images/house-8.jpg",
+      "../data/images/house-9.jpg"
+    ],
+    "latitude": 50.460124884094306,
+    "longitude": 30.515988825188447
+  },
+  {
+    "id": 14,
+    "title": "Stylish 1-Bedroom Loft",
+    "type": "Rent",
+    "price": 3800,
+    "size": 120,
+    "location": {
+      "city": "Kharkiv",
+      "district": "Kharkiv Oblast",
+      "address": "Pushkinska St, 28"
+    },
+    "amenities": ["1 Bedroom", "1 Bathroom", "Exposed Brick Walls", "High Ceilings", "Elevator"],
+    "photos": [
+      "../data/images/house-10.jpg",
+      "../data/images/house-1.jpg",
+      "../data/images/house-2.jpg"
+    ],
+    "latitude": 49.995466906033776,
+    "longitude": 36.236572267499
+  },
+  {
+    "id": 15,
+    "title": "Renovated Loft in Historic Building",
+    "type": "Rent",
+    "price": 3600,
+    "size": 120,
+    "location": {
+      "city": "Kharkiv",
+      "district": "Kharkiv Oblast",
+      "address": "Nauky Ave, 37"
+    },
+    "amenities": ["1 Bedroom", "1 Bathroom", "Exposed Brick Walls", "High Ceilings", "Elevator"],
+    "photos": [
+      "../data/images/house-3.jpg",
+      "../data/images/house-12.jpg",
+      "../data/images/house-5.jpg"
+    ],
+    "latitude": 50.03046785949059,
+    "longitude": 36.22091798469591
+  },
+  {
+    "id": 16,
+    "title": "Elegant house with high ceilings",
+    "type": "Rent",
+    "price": 2800,
+    "size": 120,
+    "location": {
+      "city": "Odesa",
+      "district": "Odesa Oblast",
+      "address": "Prymorskyi Blvd, 5"
+    },
+    "amenities": ["1 Bedroom", "1 Bathroom", "Exposed Brick Walls", "High Ceilings", "Elevator"],
+    "photos": [
+      "../data/images/house-7.jpg",
+      "../data/images/house-8.jpg",
+      "../data/images/house-9.jpg"
+    ],
+    "latitude": 46.48868653330827,
+    "longitude": 30.740093040387595
+  }
+]

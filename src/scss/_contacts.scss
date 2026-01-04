@@ -1,0 +1,35 @@
+.map__section{
+    margin: 25px;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+
+    #map {
+        margin: 0 auto;
+        height: calc(100vh - 149px);
+        width: 1200px;
+        border: 2px solid brown;
+        border-radius: 25px;
+
+    }
+
+    @media (width <= 768px) {
+        padding: 0 20px;
+
+        #map {
+          height: calc(100vh - 108px);
+          max-height: 600px;
+        }
+    }
+
+    @media (width <= 480px) {
+        padding: 0 15px;
+
+        #map {
+          max-height: 500px;
+        }
+    }
+}
+

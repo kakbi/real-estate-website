@@ -1,0 +1,14 @@
+@mixin fade-in($duration: 0.3s) {
+    opacity: 0%;
+    transform: translateY(-10px);
+    pointer-events: none;
+    transition: opacity $duration ease, transform $duration ease;
+}
+
+@mixin flex($direction: row, $justify: flex-start, $align: stretch, $gap: 0) {
+    display: flex;
+    flex-direction: $direction;
+    justify-content: $justify;
+    align-items: $align;
+    gap: $gap;
+  }

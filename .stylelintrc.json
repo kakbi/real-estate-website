@@ -1,0 +1,20 @@
+{
+  "extends": [
+    "stylelint-config-standard",
+    "stylelint-scss"
+  ],
+  "plugins": [
+    "stylelint-scss"
+  ],
+  "rules": {
+    "at-rule-no-unknown": [
+      true,
+      {
+        "ignoreAtRules": ["use", "mixin", "include", "function"]
+      }
+    ],
+    "color-function-notation": "modern",
+    "alpha-value-notation": "percentage",
+    "selector-class-pattern": "^([a-z0-9\\-]+)(__[a-z0-9\\-]+)?$"
+  }
+}
