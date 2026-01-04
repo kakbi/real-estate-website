@@ -5,6 +5,10 @@ The website also includes a **homepage** with a carousel and a **contact page** 
 
 ---
 
+## Live Demo
+
+Check out the project here: [Open Website](https://kakbi.github.io/real-estate-website/src/main.html)
+
 ## Getting Started
 
 These instructions will help you get your project up and running locally.
